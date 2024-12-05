@@ -25,7 +25,3 @@ Uses StatsBomb's open data via StatsBombR package. Please review their [terms of
 ## License
 The data is subject to StatsBomb's open data license.
 
-## Contact
-[Rafael Daníel Vias](raffidv@gmail.com)
-
-
