@@ -19,12 +19,8 @@ soccer-analytics-thesis/
 └── output/     # Results and visualizations
 ```
 
-## Requirements
-- R version 4.0.0+
-- Packages: StatsBombR, tidyverse, ggplot2, devtools
-
 ## Data Source
-Uses StatsBomb's open data via StatsBombR package. Please review their [terms of use](https://statsbomb.com/wp-content/uploads/2022/08/StatsBomb-Open-Data-Licence.pdf).
+Uses StatsBomb's open data via StatsBombR package. Please review their [terms of use](https://github.com/statsbomb/StatsBombR/blob/master/LICENSE.pdf).
 
 ## License
 The data is subject to StatsBomb's open data license.
